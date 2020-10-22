@@ -1,0 +1,7 @@
+{
+    "prettier.useTabs": true,
+    "prettier.tabWidth": 4,
+    "prettier.requireConfig": true,
+    "prettier.printWidth": 90,
+    "prettier.packageManager": "yarn"
+}
